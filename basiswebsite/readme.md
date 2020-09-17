@@ -38,15 +38,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Ik ben begonnen met de home-page en merk dat ik het positioneren nog erg lastig vind. Wat in de oefeningen goed ging, verloopt nu nog stroef. Daarnaast gaat mijn tempo met de opmaak van onderdelen beter. Buttons, hoovers, letter grootte en kleur gaat zo goed als vanzelf. Er valt nog niet heel veel over te zeggen en het is momenteel veel trial and error. Ik ga dit weekend er veel tijd in stoppen om de bovengenoemde struggles boven te komen en als dat niet lukt toch hulp te vragen. -
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![-screenshot-](images/uber-week1.jpg)
+
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+-Volgende week eerste draft van volledige pagina 1 af (mobile) -
 
 ### Verslag van meeting
 
